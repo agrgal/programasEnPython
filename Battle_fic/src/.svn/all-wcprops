@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/gc_tank/!svn/ver/147/src
+END
+game.py
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/gc_tank/!svn/ver/87/src/game.py
+END
+block.py
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/gc_tank/!svn/ver/87/src/block.py
+END
+options.py
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/gc_tank/!svn/ver/87/src/options.py
+END
+tank.py
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/gc_tank/!svn/ver/147/src/tank.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/gc_tank/!svn/ver/87/src/utils.py
+END
+bullet.py
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/gc_tank/!svn/ver/87/src/bullet.py
+END
+level.py
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/gc_tank/!svn/ver/147/src/level.py
+END

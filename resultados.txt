@@ -1,0 +1,7 @@
+Atlético,Madrid,3,2,11-4-2005
+aa,a,3,3,2
+Atlético,Real madrid,3,4,11-12-2005
+áéíóúñññ,rwerert,2,3,1
+addasd,asdasd,2,3,sdfsdf
+erer,ewrw,2,3,4324
+Juan Alberto,Sánchez Gordillo,4,5,12

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<estacionesTrabajo>
+	<Ordenador>
+		<Procesador>Pentium M</Procesador>
+		<Memoria>512MB</Memoria>
+	</Ordenador>
+	<Ordenador>
+		<Procesador>Pentium Core 2</Procesador>
+		<Memoria>1024MB</Memoria>
+	</Ordenador>
+	<Ordenador>
+		<Procesador>Pentium Core Duo</Procesador>
+		<Memoria>1024MB</Memoria>
+	</Ordenador>
+</estacionesTrabajo>

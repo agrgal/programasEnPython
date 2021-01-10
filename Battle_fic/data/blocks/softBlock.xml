@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<block name="softBlock" >
+  <attributes
+    health = "5"
+    indestructible = "False"
+    give_experience = "1" >
+    <image src = "res/images/blocks/softBlock1.png"/>
+    <image src = "res/images/blocks/softBlock2.png"/>
+    <image src = "res/images/blocks/softBlock3.png"/>
+    <image src = "res/images/blocks/softBlock4.png"/>
+    <image src = "res/images/blocks/softBlock5.png"/>
+  </attributes>
+</block>

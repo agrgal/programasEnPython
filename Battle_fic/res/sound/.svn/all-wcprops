@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/gc_tank/!svn/ver/82/res/sound
+END
+menu_accept.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/gc_tank/!svn/ver/82/res/sound/menu_accept.mp3
+END
+menu_select.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/gc_tank/!svn/ver/82/res/sound/menu_select.mp3
+END
+tank_move.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/gc_tank/!svn/ver/82/res/sound/tank_move.mp3
+END
+shoot.wav
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/gc_tank/!svn/ver/82/res/sound/shoot.wav
+END

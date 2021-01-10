@@ -1,0 +1,4004 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Creando documento de callejero con  XML-->
+<Callejero>
+	<Calle>
+		<Nombre>PLAZA MAYOR</Nombre>
+		<Fecha>1812-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE LA CONSTITUCIÓN</Nombre>
+		<Fecha>1812-08-15</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA REAL</Nombre>
+		<Fecha>1814-05-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE LA CONSTITUCIÓN</Nombre>
+		<Fecha>1820-03-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA REAL</Nombre>
+		<Fecha>1823-05-24</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE LA CONSTITUCIÓN</Nombre>
+		<Fecha>1833-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS VIDRIERIAS</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS DOS MANCEBOS</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA CONCEPCIÓN</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA CRUZ DE LA ZARZA (Y/O) ZARZA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS AGUAS</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN COSME Y SAN DAMIÁN</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE FRANCOS</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS MINILLAS</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL VIENTO</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE LA CARBONERA (Y/O) DEL CONDE DE MIRANDA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL CODO</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE MERLO (Y/O) DE LOS CAÑOS VIEJOS</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN ISIDRO</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS ZAPATERÍAS DE SAN GINÉS (Y/O) DE COLOREROS</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA FLOR</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANTA CRUZ (BAJADA O SUBIDA) (Y/O) ESPARTEROS</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN JOSÉ</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL ESTUDIO DE LA VILLA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL RELOJ (Y/O) LUCIENTE</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL BATÁN Y DIVINO PASTOR</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA CRUZ DEL ESPÍRITU SANTO (Y/O) DEL ESPÍRITU SANTO</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA CARBONERA (Y/O) PUÑONROSTRO</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE LAS VISTILLAS</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN GREGORIO</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN JUAN BAUTISTA (Y/O) DEL CONDE DUQUE</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL ROSARIO DE DON FELIPE</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE ENHORAMALA VAYAS</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS FÚCARES (Y/O) DE JESÚS</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE TENTE TIESO</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA VERÓNICA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL VEDRUGO (Y/O) DE SANTO TOMÁS)</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS ÁNGELES (BAJADA O SUBIDA)</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA FLOR</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL ESTUDIO VIEJA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS TABERNILLAS DE PARLA (Y/O) TABERNILLAS</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN MARTÍN (BAJADA O SUBIDA)</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA MAGDALENA ALTA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE DON PEDRO Y ALCANTARILLA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL ATAÚD</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA COMADRE DE GRANADA (Y/O) COMADRE</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANTA MARÍA (Y/O) DE LA ALMUDENA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE SANTA CATALINA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL AZOTADO</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS REYES VIEJA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL VIENTO</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL AZOTADO (Y/O) DE GRAFAL</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE PÍO</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CUESTA DE LA HUERTA DE RAMÓN (Y/O) DE RAMÓN</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN PEDRO LA NUEVA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN FRANCISCO (Y/O) VÁLGAME DIOS</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN JOSÉ (Y/O) DE SAN AGUSTÍN</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE NUEVA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS TRES CRUCES (Y/O) DE LA CRUZ VERDE</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE ABADÍA Y CASTRO</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN BERNARDO</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA LECHUGA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLEJÓN DEL CODO</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANTA MARÍA DEL ARCO</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE NUEVA (Y/O) DE LA REGALADA NUEVA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN BENITO</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DEL ALMIRANTE (Y/O) DEL REY</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA FLOR O DE LA ROSA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA ESPERANCILLA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL LEAL (Y/O) DE LA TORRECILLA DEL LEAL</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN JACINTO</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN BUENAVENTURA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE HITA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS PULGAS (Y/O) DE MIRA EL RÍO BAJA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE ARMAS</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE MIRA EL RÍO A LEGANITOS (Y/O) DEL RÍO</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS NEGRAS (Y/O) DE LA SIERPE</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN SALVADOR (Y/O) DEL LUZÓN</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA PEÑA DE FRANCIA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLEJÓN DE SAN MIGUEL</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANTO DOMINGO LA NUEVA (Y/O) QUIÑONES</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS REYES ALTA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN FERNANDO (Y/O) DE LA LIBERTAD</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN ILDEFONSO LA NUEVA (Y/O) DE LA SOLANA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE JESÚS Y MARÍA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE SAN JUAN LA NUEVA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN ISIDRO O DEL PRETIL</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL ARCO IMPERIAL O DE LAS BOTONERAS</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL AMOR DE DIOS BAJA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL CLAVEL</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL INDIANO (Y/O) DE NUESTRA SEÑORA DE LA LECHE</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA BUENA VISTA (Y/O) DEL TESORO ALTA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA FLOR</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN ISIDRO (Y/O) DEL AGUARDIENTE</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLEJÓN DE LA ARGANZUELA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN PEDRO</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA CASA DE LAS CONCHAS (Y/O) SARTÉN</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA PUEBLA DE PERALTA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE OÑATE (Y/O) DE LA DUDA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE LA ALCANTARILLA DE LEGANITOS (Y/O) DE LEGANITOS</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS CARROS (Y/O) DEL ORIENTE</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA PUEBLA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLEJÓN DE SAN AGUSTÍN</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA PALMA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL INQUISIDOR GENERAL (Y/O) DE TORIJA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL CORREO DEL PARTE (Y/O) DE SAN RICARDO</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE ESQUILACHE</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA ROSA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN GREGORIO</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA INQUISICIÓN (Y/O) DEL ESPÍRITU SANTO</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN JUAN</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN ISIDRO (Y/O) DEL BURRO</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE AUNQUE OS PESE</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANTO DOMINGO (BAJADA O SUBIDA)</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANTA CATALINA LA VIEJA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL BARRANCO DE LAVAPIÉS</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL LIMÓN BAJA O LIMÓN DE LA PUEBLA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS DAMAS Y PRIMAVERA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE MERLO (Y/O) DE LA MORERÍA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL SACRAMENTO</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL VIENTO (Y/O) DE LA TORRE DE SAN SEBASTIÁN</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE DOÑA MARÍA DE ARAGÓN</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN PEDRO Y SAN PABLO</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL NABO</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA CUADRA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN JUSTO</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA CRUZ DE CARAVACA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE PONCIANO Y OLIVARES</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANTA CATALINA DE LOS DONADOS</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL CARMEN ALTA (Y/O) DE LA SALUD</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE LAS MONJAS DE CONSTANTINOPLA (Y/O) DE SAN NICOLÁS</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN JOSÉ</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS CAÑOS DEL PERAL (Y/O) DEL PERAL</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL SOL</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN JUAN LA NUEVA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA CAVA BAJA DE SAN FRANCISCO (Y/O) CAVA BAJA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL HORNO DE LA ESPADA (Y/O) DE LA ESGRIMA</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE LOS PÁJAROS (Y/O) DE SAN ESTEBAN</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE LAS ARMAS</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS BODEGONES (Y/O) DE LAS VELAS</Nombre>
+		<Fecha>1835-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA GORGUERA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN HERMENEGILDO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA ABADA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS ABADES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL CORREO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA LUNA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL CARMEN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DE LA PRIMAVERA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS COFREROS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS TUDESCOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE NOBLEJAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA LECHE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CARRERA DE SAN FRANCISCO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE SAM MILLÁN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLEJÓN DEL BIOMBO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLEJÓN DE LEGANITOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN BRUNO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL BONETILLO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL TINTE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE MALPICA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DEL GRANADO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA BIBLIOTECA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE LA PLATERÍA DE MARTÍNEZ</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>COSTANILLA DE LA VETERINARIA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE SAN JUAN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA PRIORA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN PEDRO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN COSME</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLEJÓN DE SAN LÁZARO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE LAS COMENDADORAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN MILLÁN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE LA ARMERÍA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL COLMILLO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA CORREDERA ALTA DE SAN PABLO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN JOAQUÍN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN BERNARDINO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE HITA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL VICARIO VIEJO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE LOS CONSEJOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA GARDUÑA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DE MORIANA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CAMPILLO DE LAS VISTILLAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE SAN FRANCISCO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS DONADOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANTA LUCÍA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANTA BÁRBARA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN ANDRÉS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PASADIZO DE SAN GINÉS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN BARTOLOMÉ</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL DUQUE DE NÁJERA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS FUENTES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN MARCOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS BEATAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DE LA PARADA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE LOS MINISTERIOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA PAZ</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE GREDA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CUESTA DE SAN LÁZARO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CARRERA DE SAN JERÓNIMO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DEL CONSERVATORIO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL CANDIL</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DEL SEMINARIO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA MADERA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANTA CATALINA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE SANTA BÁRBARA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE CARAVACA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANTA BRÍGIDA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE EL ESCORIAL</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL ESPINO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA PEÑA DE FRANCIA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA VERÓNICA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS MANCEBOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE ANTÓN MARTÍN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA LIBERTAD</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANTA INÉS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN CARLOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN OPROPIO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE BELÉN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA PALOMA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL BARQUILLO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL ESPÍRITU SANTO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA CORREDERA BAJA DE SAN PABLO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLEJÓN DE SAN MARCIAL</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL DUQUE DE ALBA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL PÓSITO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA CAVA BAJA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANTA CLARA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DEL CONDE DE MIRANDA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS GITANOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE PERALTA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE ORIENTE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL MEDIODÍA GRANDE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE LOS HERRADORES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL ÁNGEL</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL RÍO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DEL ÁNGEL</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANTA MARÍA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA ENCOMIENDA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL CLAVEL</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE COLÓN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>COSTANILLA DE SAN JUSTO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE VALENCIA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA FLOR BAJA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA ESGRIMA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LUZÓN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL INFANTE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN SEBASTIÁN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANTO TOMÉ</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL DUQUE DE LIRIA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN CIPRIANO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE JESÚS DEL VALLE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA ROSA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANTA POLONIA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DE LAS VISTILLAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL BASTERO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN AGUSTÍN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLEJÓN DEL MELLIZO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DE SAN MATEO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA TAHONA DE LAS DESCALZAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>COSTANILLA DE LOS ÁNGELES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DE LAS BEATAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA AMARGURA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA CAVA ALTA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA FE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS NEGRAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS SANTOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN ISIDRO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE ANGOSTA DE LOS MANCEBOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA FLOR ALTA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS TINTOREROS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL VENTORRILLO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN MARTÍN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE REBEQUE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>COSTANILLA DE SAN VICENTE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE MONTSERRAT</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL BAÑO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL POZO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DE LAS POZAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE VELAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE LAVAPIÉS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE NAO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS PANADEROS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS PLATERÍAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL PRETIL DE PALACIO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL LIMÓN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA CEBADA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE FÚCAR</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE ISABEL II</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS RELATORES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL CARNERO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLEJÓN DEL TÍO ESTEBAN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL RECODO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CUESTA DE LOS CAÑOS VIEJOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL DIVINO PASTOR</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL DOS DE MAYO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE PROVINCIA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA COMADRE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL ARCO DE SANTA MARÍA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS TRES CRUCES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE JACOMETREZO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLEJÓN DEL PRÍNCIPE PÍO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE ROMPELANZAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS DOS AMIGOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA ESTRELLA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA REAL</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DEL LIMÓN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE SANTA CATALINA DE LOS DONADOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DE BELÉN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS TABERNILLAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN RICARDO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE EGUILUZ</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL NUNCIO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE CALATRAVA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN DIMAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA ARGANZUELA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DEL CORDÓN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLEJÓN DE LA YEDRA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS AMAZONAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE TRUJILLOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE GRAFAL</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE SAN ANDRÉS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN FELIPE NERI</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE CIUDAD RODRIGO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE COSME DE MEDICIS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL AVE MARÍA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE LAS CAPUCHINAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DEL CONDE DUQUE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL CONDE DUQUE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE TRUJILLOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA AMNISTÍA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL SAÚCO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL AMOR DE DIOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA SARTÉN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS REJAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA RUDA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA ESCALERILLA DE PIEDRA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL ROLLO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS SALESAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CUESTA DE RAMÓN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS YESEROS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS REMEDIOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE SANTIAGO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE LA PUERTA DEL SOL</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DE LA ENCOMIENDA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE DAOÍZ</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS CONCHAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANTA ISABEL</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE AMANIEL</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PASEO DE RECOLETOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE JESÚS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA JUSTA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE CANTARRANAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CUESTA DE LOS CIEGOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE CELENQUE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA VISITACIÓN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA RIBERA DE CURTIDORES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DE LA COMADRE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE ESPERANZA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA TRAVIESA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL CUERVO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE FUENCARRAL</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE BUENAVISTA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA ALAMEDA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN LORENZO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA UNIÓN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA PUERTA CERRADA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL GATO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE ZARAGOZA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN ONOFRE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE CHOPA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS IRLANDESES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA REINA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE BARRIONUEVO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA SOLANA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL RELOJ</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA CAZA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE SAN ILDEFONSO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE LOS CARROS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL PRETIL DE LOS CONSEJOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DEL CAMPILLO DEL MUNDO NUEVO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE SAN MARCIAL</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE JESÚS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS PROVISIONES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL PRÍNCIPE PÍO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL CASINO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA FRESA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN JUAN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE RODAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS PROCURADORES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE PRECIADOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CAMPILLO DE GIL IMÓN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS ESTUDIOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN JUSTO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE LAS SALESAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DE LA MATA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA MERCED</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE SIN PUERTAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL CAMPILLO DE MANUELA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA BOLA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL FLORÍN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL ARENAL</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DE LOS GUARDIAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL SALITRE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE LA CONCEPCIÓN JERÓNIMA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA CRUZ</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA INDEPENDENCIA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL SOLDADO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS POZAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SEGOVIA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS LEONES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE PONCIANO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL CARBÓN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE CHICA DE LA ALMUDENA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE TOLEDO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL NORTE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DEL CARMEN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE SAN JACINTO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE LAS DESCALZAS REALES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA LECHUGA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DEL RASTRO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS MINAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE SANTA CRUZ</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>COSTANILLA DE SAN ANDRÉS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE CERVANTES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE JESÚS Y MARÍA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE CEDACEROS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE LA VILLA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA ZARZA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DEL HUMILLADERO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN EUGENIO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA BERENJENA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN MIGUEL</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN PEDRO MÁRTIR</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE DON FELIPE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL ALMENDRO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA MONTERA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL ALMIRANTE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA PUEBLA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL DUQUE DE OSUNA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL PRADO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE LA MORERÍA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA TORRECILLA DEL LEAL</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DE LA LEÑA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE HERNÁN CORTÉS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>COSTANILLA DE SAN PEDRO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS AUTORES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE EL CORRALÓN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE ZURITA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS POSTAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL OLIVAR</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DE FÚCAR</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS BOTEROS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN BENITO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL PEZ</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS MILANESES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLEJÓN DE LAS MINAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA ESPADA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA ENCARNACIÓN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE SANTA ANA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DEL RELOJ</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL HUMILLADERO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>COSTANILLA DEL NUNCIO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLEJÓN DE LA PEÑA DE FRANCIA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE LA ADUANA VIEJA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS MINISTRILES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DEL BIOMBO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN CRISTÓBAL</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL ROSAL</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE MANUEL</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLEJÓN DE SAN ANDRES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE LOS MOSTENSES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA VENTANILLA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL CONDE DE MIRANDA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE SAN GINÉS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS BOTONERAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA VILLA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS NEGROS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS TORRES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE VELARDE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE ESPARTEROS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS UROSAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL AGUARDIENTE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS PEREGRINOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN JACINTO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA PALMA BAJA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE MATUTE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL GOBERNADOR</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLEJÓN DEL HOSPITAL</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE SAN JAVIER</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA FLORIDA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LEMUS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL RUBIO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS MINISTRILES CHICA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA PINGARRONA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS CAÑIZARES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE CHINCHILLA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE MADRID</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA SALUD</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SILVA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA PALMA ALTA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA TERNERA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE ORIENTE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS CAPELLANES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL TESORO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE ANCHA DE PELIGROS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN JOSÉ</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS VENERAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA CONCEPCIÓN JERÓNIMA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS CARRETAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA MANZANA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN ANTÓN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS LATONEROS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL MOLINO DE VIENTO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL SOMBRERETE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE MAYOR</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS INFANTAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE LA PUERTA DE MOROS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL HORNO DE LA MATA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS COJOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL BARCO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL SORDO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA HUERTA DEL BAYO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE DON PEDRO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE MARÍA CRISTINA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE ATOCHA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLEJÓN DE LAS YERBAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE ANCHA DE LOS MAJADERITOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANTA MARGARITA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA PARADA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE JUAN DE DIOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN IGNACIO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS MALDONADAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL CODO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DEL ESTAMENTO DE PROCURADORES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE QUIÑONES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN LEONARDO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN ILDEFONSO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA ESCUADRA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE IMPERIAL</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL CALVARIO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE TORIJA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE LEGANITOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL LAZO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS REGUEROS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLEJÓN DE TUDESCOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA MAGDALENA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL CRISTO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DE LA FLORIDA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS CAÑOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS JARDÍNES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANTA ANA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE SAN MIGUEL</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS REYES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE PIZARRO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS MÁRTIRES DE ALCALÁ</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL CERRILLO DEL RASTRO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL FACTOR</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL BURRO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE LOS AFLIGIDOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA MISERICORDIA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLEJÓN DE LA CONCEPCIÓN JERÓNIMA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE MIRA EL RÍO ALTA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PASADIZO DEL PANECILLO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLEJÓN DEL SOLDADO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE GERONA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL PRÍNCIPE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE LA ENCARNACIÓN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN GREGORIO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DE BRINGAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL BIOMBO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN DÁMASO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE SANTA MARÍA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL PORTILLO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PASEO DEL PRADO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>COSTANILLA DE LOS CAPUCHINOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA PASIÓN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA SIERPE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL PERRO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE ALCALÁ</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN VICENTE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS DOS HERMANAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANTIAGO EL VERDE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE MIRA EL RÍO BAJA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE FOMENTO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE LA PUERTA CERRADA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE PUÑONROSTRO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL ALAMILLO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DEL ALAMILLO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANTIAGO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL ÁLAMO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>COSTANILLA DE LOS DESAMPARADOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE CASTRO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DEL RASTRO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE LA CRUZ VERDE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS COLOREROS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LEGANITOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA BALLESTA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DE ALTAMIRA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE ESPERANCILLA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE GONGORA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL PEÑÓN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN LUCAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE SANTO DOMINGO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANTO TOMÁS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE REAL DE LA ALMUDENA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE JUANELO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA MORERÍA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE LA CEBADA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN ROQUE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA REDONDILLA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL ROSARIO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL OSO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA CUEVA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA BODEGA DE SAN MARTÍN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA CRUZADA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL NIÑO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE EMBAJADORES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DE PELIGROS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA FARMACIA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE MIRA EL SOL</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>COSTANILLA DE LA ARGANZUELA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS TRES PECES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS BORDADORES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL TORO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL CONDE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA CAVA DE SAN MIGUEL</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>COSTANILLA DE SANTIAGO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE VÁLGAME DIOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DE LA CRUZ VERDE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE LA LEÑA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DE LA BALLESTA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN BUENAVENTURA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE ANGOSTA DE PELIGROS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DEL DUQUE DE FRÍAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL BARRANCO DE EMBAJADORES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL PIAMONTE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN BERNABÉ</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE SAN ESTEBAN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE BAILÉN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE NALÓN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLEJÓN DE SAN MARCOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE VALVERDE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS HILERAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE EL SALVADOR</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS HUERTAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN SIMÓN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA DUDA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL CONDE DE BARAJAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DEL CONDE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE SAN MARTÍN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PASEO DE SAN VICENTE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA PASA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANTA ÁGUEDA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DEL REY</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL CABALLERO DE GRACIA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL MESÓN DE PAÑOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL MESÓN DE PAREDES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CUESTA DE LA VEGA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLEJÓN DEL INFIERNO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS AGUAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLEJÓN DE LEGANITOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL ÁGUILA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS CABESTREROS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL GRANADO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA CABEZA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA ESCALINATA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DE LOS CABESTREROS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DEL BIOMBO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL MEDIODÍA CHICA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL NOVICIADO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL SACRAMENTO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAVAPIÉS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL TURCO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA SAL</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL PRETIL DE SANTISTEBAN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DEL DESENGAÑO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DEL PRÍNCIPE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN NICOLÁS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE HORTALEZA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA CRUZ VERDE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS CUCHILLEROS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL VIENTO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL OLMO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA VENTOSA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA PRIMAVERA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LUCIENTE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DE LOS TRUJILLOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DE LUZÓN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>COSTANILLA DE SANTA TERESA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANTA TERESA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLEJÓN DE EMBAJADORES</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL DESENGAÑO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE ANCHA DE SAN BERNARDO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL LEÓN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL CORDÓN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA VICTORIA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DEL CONDE DE BARAJAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL ACUERDO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLEJÓN DE PRECIADOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA FLORA</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL POSTIGO DE SAN MARTÍN</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE ANGOSTA DE LOS MAJADERITOS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE SAN NICOLÁS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN ALBERTO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN BLAS</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN MATEO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE ANGOSTA DE SAN BERNARDO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL OLIVO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CUESTA DE SANTO DOMINGO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL LOBO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL TRIBULETE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL ESPEJO</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS SAN JORGE</Nombre>
+		<Fecha>1835-01-11</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE LAS CORTES</Nombre>
+		<Fecha>1837-06-04</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE RIEGO</Nombre>
+		<Fecha>1840-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL SIETE DE JULIO</Nombre>
+		<Fecha>1840-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE TORRIJOS</Nombre>
+		<Fecha>1840-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN GIL NUEVA</Nombre>
+		<Fecha>1840-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CAMINO DE SAN BERNARDINO</Nombre>
+		<Fecha>1840-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CUESTA DE ARENEROS</Nombre>
+		<Fecha>1840-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE BILBAO</Nombre>
+		<Fecha>1840-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA BENEFICENCIA</Nombre>
+		<Fecha>1840-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL ARCO DEL TRIUNFO</Nombre>
+		<Fecha>1840-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA MILICIA NACIONAL</Nombre>
+		<Fecha>1840-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PASEO DE LUCHANA</Nombre>
+		<Fecha>1840-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>COSTANILLA DE LAS TRINITARIAS</Nombre>
+		<Fecha>1840-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DEL DUQUE DE ALBA</Nombre>
+		<Fecha>1840-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE CENICERO</Nombre>
+		<Fecha>1840-03-17</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DEL PROGRESO</Nombre>
+		<Fecha>1840-03-17</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE ESPOZ Y MINA</Nombre>
+		<Fecha>1840-03-17</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL EMPECINADO</Nombre>
+		<Fecha>1840-03-17</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE LA CONSTITUCIÓN</Nombre>
+		<Fecha>1840-08-15</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL DUQUE DE LA VICTORIA</Nombre>
+		<Fecha>1840-11-17</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL GENERAL TORRIJOS</Nombre>
+		<Fecha>1841-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE VERGARA</Nombre>
+		<Fecha>1841-04-28</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE REQUENA</Nombre>
+		<Fecha>1841-04-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE RAMALES</Nombre>
+		<Fecha>1841-04-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL GENERAL ZAYAS</Nombre>
+		<Fecha>1843-04-04</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE PRECIADOS</Nombre>
+		<Fecha>1843-04-04</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE PADILLA</Nombre>
+		<Fecha>1843-04-04</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE MÁIQUEZ</Nombre>
+		<Fecha>1843-04-04</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL PATRIOTA MANZANARES</Nombre>
+		<Fecha>1843-04-04</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LACY</Nombre>
+		<Fecha>1843-04-04</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE PONTEJOS</Nombre>
+		<Fecha>1843-04-04</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE ALCALÁ</Nombre>
+		<Fecha>1843-08-08</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOPE DE VEGA</Nombre>
+		<Fecha>1844-03-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE RIEGO</Nombre>
+		<Fecha>1845-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN ESTEBAN</Nombre>
+		<Fecha>1845-01-28</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DEL CONDE DUQUE</Nombre>
+		<Fecha>1845-01-28</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CARRERA DE SAN JERÓNIMO</Nombre>
+		<Fecha>1845-01-28</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL LOBO</Nombre>
+		<Fecha>1845-01-28</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA VICTORIA</Nombre>
+		<Fecha>1845-01-28</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL BURRO</Nombre>
+		<Fecha>1845-01-28</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS CARRETAS</Nombre>
+		<Fecha>1845-01-28</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA MONTERA</Nombre>
+		<Fecha>1845-01-28</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS HUERTAS</Nombre>
+		<Fecha>1845-01-28</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE SAN ESTEBAN</Nombre>
+		<Fecha>1845-01-28</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS BOTEROS</Nombre>
+		<Fecha>1845-04-25</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE VELÁZQUEZ</Nombre>
+		<Fecha>1848-03-31</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE PONTEJOS</Nombre>
+		<Fecha>1848-03-31</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE PAVÍA</Nombre>
+		<Fecha>1848-03-31</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE GRAVINA</Nombre>
+		<Fecha>1848-03-31</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE FELIPE V</Nombre>
+		<Fecha>1848-03-31</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE CALDERÓN DE LA BARCA</Nombre>
+		<Fecha>1848-03-31</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE FLORIDABLANCA</Nombre>
+		<Fecha>1848-03-31</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE JOVELLANOS</Nombre>
+		<Fecha>1848-03-31</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE QUEVEDO</Nombre>
+		<Fecha>1848-03-31</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE CARLOS III</Nombre>
+		<Fecha>1848-03-31</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE PONTEJOS</Nombre>
+		<Fecha>1848-03-31</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN QUINTÍN</Nombre>
+		<Fecha>1848-03-31</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LEPANTO</Nombre>
+		<Fecha>1848-03-31</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE JUAN DE HERRERA</Nombre>
+		<Fecha>1848-03-31</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA COLEGIATA</Nombre>
+		<Fecha>1848-03-31</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CARRETERA DE VALENCIA</Nombre>
+		<Fecha>1849-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE CÁDIZ</Nombre>
+		<Fecha>1849-04-20</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE BARCELONA</Nombre>
+		<Fecha>1849-04-20</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA ADUANA</Nombre>
+		<Fecha>1849-04-20</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SEVILLA</Nombre>
+		<Fecha>1849-04-28</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DEL CONGRESO</Nombre>
+		<Fecha>1849-11-28</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE VEGAMAR</Nombre>
+		<Fecha>1850-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA ALMUDENA</Nombre>
+		<Fecha>1851-04-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE FELIPE III</Nombre>
+		<Fecha>1851-06-07</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE QUESADA</Nombre>
+		<Fecha>1851-12-19</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA AUDIENCIA</Nombre>
+		<Fecha>1852-03-12</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE TRAFALGAR</Nombre>
+		<Fecha>1852-03-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN CAYETANO</Nombre>
+		<Fecha>1852-09-03</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL GENERAL ÁLVAREZ</Nombre>
+		<Fecha>1852-09-03</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PASEO DEL OBELISCO</Nombre>
+		<Fecha>1852-09-03</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN LORENZO</Nombre>
+		<Fecha>1853-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE ANTILLÓN</Nombre>
+		<Fecha>1853-05-12</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE LA PRINCESA</Nombre>
+		<Fecha>1853-05-12</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DEL ARENAL</Nombre>
+		<Fecha>1853-08-25</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL EMPECINADO</Nombre>
+		<Fecha>1854-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE RIEGO</Nombre>
+		<Fecha>1854-07-28</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL DUQUE DE LA VICTORIA</Nombre>
+		<Fecha>1854-10-25</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL GENERAL DULCE</Nombre>
+		<Fecha>1854-12-12</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL GENERAL O'DONNELL</Nombre>
+		<Fecha>1854-12-12</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL GENERAL ROS DE OLANO</Nombre>
+		<Fecha>1854-12-15</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE ISABEL LA CATÓLICA</Nombre>
+		<Fecha>1855-04-14</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL DIECISIETE DE JULIO</Nombre>
+		<Fecha>1855-04-14</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PASEO DEL CANAL</Nombre>
+		<Fecha>1855-05-20</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE MORATINES</Nombre>
+		<Fecha>1855-06-20</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS PEÑUELAS</Nombre>
+		<Fecha>1855-06-20</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE MARTÍN DE VARGAS</Nombre>
+		<Fecha>1855-06-20</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL LABRADOR</Nombre>
+		<Fecha>1855-06-20</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS TORRES</Nombre>
+		<Fecha>1855-12-16</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL OLIVO</Nombre>
+		<Fecha>1855-12-16</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA VICTORIA</Nombre>
+		<Fecha>1855-12-16</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LAS BOTONERAS</Nombre>
+		<Fecha>1855-12-16</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE ALCALÁ</Nombre>
+		<Fecha>1855-12-16</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DE LA BALLESTA</Nombre>
+		<Fecha>1855-12-16</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE PELAYO</Nombre>
+		<Fecha>1856-12-13</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PASEO DEL HUEVO</Nombre>
+		<Fecha>1857-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZUELA DE LA CEBADA</Nombre>
+		<Fecha>1857-03-07</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL GENERAL WINTHUYSEN</Nombre>
+		<Fecha>1857-03-09</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE RECOLETOS</Nombre>
+		<Fecha>1857-10-30</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL CID</Nombre>
+		<Fecha>1857-11-24</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN ANTÓN</Nombre>
+		<Fecha>1858-03-26</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE PELAYO</Nombre>
+		<Fecha>1858-08-09</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANTA BÁRBARA</Nombre>
+		<Fecha>1859-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE MIRA EL SOL</Nombre>
+		<Fecha>1859-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE CÁRTAMA</Nombre>
+		<Fecha>1859-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE IBÁÑEZ</Nombre>
+		<Fecha>1859-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA AZUCENAS</Nombre>
+		<Fecha>1859-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA HABANA</Nombre>
+		<Fecha>1859-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>RONDA DE FUENCARRAL</Nombre>
+		<Fecha>1859-08-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CARRETERA DE EXTREMADURA</Nombre>
+		<Fecha>1859-08-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>RONDA DE SANTA BÁRBARA</Nombre>
+		<Fecha>1859-08-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CUESTA DE LOS ARENEROS</Nombre>
+		<Fecha>1859-08-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE REAL</Nombre>
+		<Fecha>1859-08-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CARRETERA DE TOLEDO</Nombre>
+		<Fecha>1859-08-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CARRETERA DE ANDALUCÍA</Nombre>
+		<Fecha>1859-08-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>RONDA DE BILBAO</Nombre>
+		<Fecha>1859-08-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANTA ENGRACIA</Nombre>
+		<Fecha>1859-08-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA VIRGEN DE LAS AZUCENAS</Nombre>
+		<Fecha>1859-08-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CARRETERA DE ANDALUCÍA</Nombre>
+		<Fecha>1859-08-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE MALA DE FRANCIA</Nombre>
+		<Fecha>1859-08-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL CARDENAL CISNEROS</Nombre>
+		<Fecha>1859-08-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE ARAPILES</Nombre>
+		<Fecha>1859-08-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>RONDA DE VALLECAS</Nombre>
+		<Fecha>1859-08-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PASEO DE SAN BERNARDINO</Nombre>
+		<Fecha>1859-08-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE BALMES</Nombre>
+		<Fecha>1859-08-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>RONDA DE RECOLETOS</Nombre>
+		<Fecha>1859-08-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE CHAMARTÍN</Nombre>
+		<Fecha>1859-08-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE NAVAS DE TOLOSA</Nombre>
+		<Fecha>1859-08-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE ALBURQUERQUE</Nombre>
+		<Fecha>1859-08-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE RECAREDO</Nombre>
+		<Fecha>1859-08-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL CASTILLO</Nombre>
+		<Fecha>1859-08-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE MURILLO</Nombre>
+		<Fecha>1859-08-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PASEO DE LOS ARENEROS</Nombre>
+		<Fecha>1859-08-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>RONDA DEL CONDE DUQUE</Nombre>
+		<Fecha>1859-08-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE ARANGO</Nombre>
+		<Fecha>1859-08-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL NORTE</Nombre>
+		<Fecha>1859-08-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>GLORIETA DE SEGOVIA</Nombre>
+		<Fecha>1860-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CAMINO DE LAS YESERÍAS DEL CANAL</Nombre>
+		<Fecha>1860-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CAMINO DE LOS OCHO HILOS</Nombre>
+		<Fecha>1860-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE OLID</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>GLORIETA DEL PUENTE DE SEGOVIA</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAGUNTO</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL CISNE</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE FEIJOO</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE FELIPE EL HERMOSO</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PASEO DE LOS OLMOS</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANTA FELICIANA</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANDOVAL</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE GONZALO DE CÓRDOBA</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE MELÉNDEZ VALDÉS</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL MARQUÉS DE LA ROMANA</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PASEO IMPERIAL</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PASEO DE SANTA MARÍA DE LA CABEZA</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE FERNANDO EL CATÓLICO</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>GLORIETA DE QUEVEDO</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE LAS PEÑUELAS</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>RONDA DE VALENCIA</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>RONDA DE SEGOVIA</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE JORDÁN</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE PALAFOX</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE MAGALLANES</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PASEO DE LOS MELANCÓLICOS</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE EL ESPAÑOLETO</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE OLAVIDE</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA SANTÍSIMA TRINIDAD</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANTA ÚRSULA</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE FRAY LUIS DE LEÓN</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PASEO DE LOS OCHO HILOS</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE GARCÍA DE PAREDES</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PASEO DE LAS YESERÍAS</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE ERCILLA</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PASEO DE LAS DELICIAS</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>RONDA DE ATOCHA</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE PONCE DE LEÓN</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LUCHANA</Nombre>
+		<Fecha>1860-02-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE TETUÁN</Nombre>
+		<Fecha>1860-02-07</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE GARCILASO</Nombre>
+		<Fecha>1860-02-08</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL COMERCIO</Nombre>
+		<Fecha>1862-06-02</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE VILLANUEVA</Nombre>
+		<Fecha>1862-06-17</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE DON JUAN DE AUSTRIA</Nombre>
+		<Fecha>1863-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE LA IGLESIA</Nombre>
+		<Fecha>1863-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE COVARRUBIAS</Nombre>
+		<Fecha>1863-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE CHAMBERÍ</Nombre>
+		<Fecha>1863-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CAMINO BAJO DE SAN ISIDRO</Nombre>
+		<Fecha>1863-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CAMINO ALTO DE VICÁLVARO</Nombre>
+		<Fecha>1863-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE GIL IMÓN</Nombre>
+		<Fecha>1863-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE ALFONSO X</Nombre>
+		<Fecha>1863-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE MORETO</Nombre>
+		<Fecha>1863-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>GLORIETA DE LOS CUATRO CAMINOS</Nombre>
+		<Fecha>1863-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLEJÓN DEL ALAMILLO</Nombre>
+		<Fecha>1863-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL SORDO</Nombre>
+		<Fecha>1864-05-07</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE MUÑOZ TORRERO</Nombre>
+		<Fecha>1864-05-21</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE FERNANDO VI</Nombre>
+		<Fecha>1864-10-13</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE LA VILLA</Nombre>
+		<Fecha>1865-02-17</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE SAN ANDRÉS</Nombre>
+		<Fecha>1865-02-17</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DEL CARMEN</Nombre>
+		<Fecha>1865-02-17</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE LA CEBADA</Nombre>
+		<Fecha>1865-02-17</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE LEGANITOS</Nombre>
+		<Fecha>1865-02-17</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE LAS COMENDADORAS</Nombre>
+		<Fecha>1865-02-17</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DEL SEMINARIO</Nombre>
+		<Fecha>1865-02-17</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE SANTA BÁRBARA</Nombre>
+		<Fecha>1865-02-17</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DEL PRÍNCIPE ALFONSO</Nombre>
+		<Fecha>1865-02-17</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE SAN FRANCISCO</Nombre>
+		<Fecha>1865-02-17</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE LA PROVINCIA</Nombre>
+		<Fecha>1865-02-17</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE PELIGROS</Nombre>
+		<Fecha>1865-02-17</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DEL DUQUE DE ALBA</Nombre>
+		<Fecha>1865-02-17</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE LAS DESCALZAS</Nombre>
+		<Fecha>1865-02-17</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE SAN MARTÍN</Nombre>
+		<Fecha>1865-02-17</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE LAVAPIÉS</Nombre>
+		<Fecha>1865-02-17</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE CELENQUE</Nombre>
+		<Fecha>1865-02-17</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE LOS MOSTENSES</Nombre>
+		<Fecha>1865-02-17</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE SANTO DOMINGO</Nombre>
+		<Fecha>1865-02-17</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE LAS SALESAS</Nombre>
+		<Fecha>1865-02-17</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE SAN MIGUEL</Nombre>
+		<Fecha>1865-02-17</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN BERNARDO</Nombre>
+		<Fecha>1865-04-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE ALARCÓN</Nombre>
+		<Fecha>1865-06-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE MONTALBÁN</Nombre>
+		<Fecha>1865-07-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE VALENZUELA</Nombre>
+		<Fecha>1865-07-06</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE MORETO</Nombre>
+		<Fecha>1865-08-04</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE FELIPE IV</Nombre>
+		<Fecha>1865-08-04</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE TÉLLEZ</Nombre>
+		<Fecha>1865-08-04</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE JUAN DE MENA</Nombre>
+		<Fecha>1865-08-04</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA PRINCESA</Nombre>
+		<Fecha>1865-10-04</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LUISA FERNANDA</Nombre>
+		<Fecha>1865-10-04</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE QUINTANA</Nombre>
+		<Fecha>1865-10-04</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE FERRAZ</Nombre>
+		<Fecha>1865-10-04</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL TUTOR</Nombre>
+		<Fecha>1865-10-19</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE DON EVARISTO</Nombre>
+		<Fecha>1865-10-19</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE DON MARTÍN</Nombre>
+		<Fecha>1865-10-19</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE MENDIZÁBAL</Nombre>
+		<Fecha>1865-10-19</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL BUEN SUCESO</Nombre>
+		<Fecha>1865-10-19</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL REY FRANCISCO</Nombre>
+		<Fecha>1865-10-19</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE QUITAPESARES</Nombre>
+		<Fecha>1865-10-19</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE HERMOSA</Nombre>
+		<Fecha>1866-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SOLARES</Nombre>
+		<Fecha>1866-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PASEO DE LA MONTAÑA DEL PRÍNCIPE PÍO (Y/O) DEL REY</Nombre>
+		<Fecha>1866-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PASAJE DE VALDECILLA</Nombre>
+		<Fecha>1866-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PASAJE DE MATHÉU</Nombre>
+		<Fecha>1866-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE JORGE JUAN</Nombre>
+		<Fecha>1866-02-08</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL GENERAL ÁLVAREZ DE CASTRO</Nombre>
+		<Fecha>1866-02-08</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE GOYA</Nombre>
+		<Fecha>1866-02-08</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE CLAUDIO COELLO</Nombre>
+		<Fecha>1866-02-08</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE CHURRUCA</Nombre>
+		<Fecha>1866-02-18</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE BARCELÓ</Nombre>
+		<Fecha>1866-02-18</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL ÁNCORA</Nombre>
+		<Fecha>1866-02-18</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE JUAN DE URBIETA</Nombre>
+		<Fecha>1866-02-18</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE MELÉNDEZ VALDÉS</Nombre>
+		<Fecha>1866-05-08</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA MARINA ESPAÑOLA</Nombre>
+		<Fecha>1866-05-21</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL PACÍFICO</Nombre>
+		<Fecha>1866-05-21</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE JUAN DE URBIETA</Nombre>
+		<Fecha>1866-05-26</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PUENTE DE CASTILLA</Nombre>
+		<Fecha>1866-05-27</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DEL CALLAO</Nombre>
+		<Fecha>1866-06-14</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SEBASTIÁN ELCANO</Nombre>
+		<Fecha>1866-12-14</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE EL ARIEL</Nombre>
+		<Fecha>1867-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE LA PUERTA CERRADA</Nombre>
+		<Fecha>1867-03-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>TRAVESÍA DEL ALMENDRO</Nombre>
+		<Fecha>1867-04-04</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE FERNANDO EL SANTO</Nombre>
+		<Fecha>1867-05-07</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>BULEVAR DE NARVÁEZ</Nombre>
+		<Fecha>1867-11-22</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA SOBERANÍA NACIONAL</Nombre>
+		<Fecha>1868-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL INDUSTRIAL</Nombre>
+		<Fecha>1868-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA PENINSULAR</Nombre>
+		<Fecha>1868-02-21</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE NARVÁEZ</Nombre>
+		<Fecha>1868-02-21</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA BOLA</Nombre>
+		<Fecha>1868-02-21</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL MARQUÉS DE VILLAMAGNA</Nombre>
+		<Fecha>1868-03-07</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE AVILA</Nombre>
+		<Fecha>1868-09-26</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE PRIM</Nombre>
+		<Fecha>1868-09-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SERRANO</Nombre>
+		<Fecha>1868-09-29</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE GUTENBERG</Nombre>
+		<Fecha>1869-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DEL DOS DE MAYO</Nombre>
+		<Fecha>1869-05-03</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE RUIZ</Nombre>
+		<Fecha>1869-05-03</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE GRANADA</Nombre>
+		<Fecha>1869-05-03</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE CARRANZA</Nombre>
+		<Fecha>1869-05-03</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>PLAZA DE LA INDEPENDENCIA</Nombre>
+		<Fecha>1869-05-03</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE MALASAÑA</Nombre>
+		<Fecha>1869-05-03</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE ISABEL COLBRAND</Nombre>
+		<Fecha>1871-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SAN DÁMASO</Nombre>
+		<Fecha>1871-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LOS PAJARITOS</Nombre>
+		<Fecha>1871-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE CARPENA</Nombre>
+		<Fecha>1871-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE SANTA TERESA</Nombre>
+		<Fecha>1871-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL CARRIL DE CARABINEROS</Nombre>
+		<Fecha>1871-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA ESE</Nombre>
+		<Fecha>1871-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DE LA ENEMISTAD</Nombre>
+		<Fecha>1871-01-01</Fecha>
+	</Calle>
+	<Calle>
+		<Nombre>CALLE DEL DOCTOR FOURQUET</Nombre>
+		<Fecha>1871-04-08</Fecha>
+	</Calle>
+</Callejero>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tank name="red" imagesrc="res/images/tanks/red.png" >
+  <attributes
+    give_experience = "5"
+    speed = "2"
+    damage = "1"
+    defense = "1"
+    health = "10"
+    next_level = "1"
+  />
+</tank>

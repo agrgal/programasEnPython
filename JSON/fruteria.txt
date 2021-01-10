@@ -1,0 +1,1 @@
+{"Fruter\u00eda": [{"Fruta": [{"Nombre": "Sand\u00eda", "Cantidad": 10}, {"Nombre": "Pera", "Cantidad": 20}, {"Nombre": "Naranja", "Cantidad": 30}]}, {"Verdura": [{"Nombre": "Lechuga", "Cantidad": 80}, {"Nombre": "Tomate", "Cantidad": 15}, {"Nombre": "Pepino", "Cantidad": 50}]}]}

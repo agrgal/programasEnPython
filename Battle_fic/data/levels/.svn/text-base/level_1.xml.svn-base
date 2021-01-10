@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<level background="res/images/backgrounds/fondoFicCaminos.jpg" name="level_1">
+    <user pos="9,13"/>
+    <enemies>
+        <enemy name="cyan" pos="1,1"/>
+        <enemy name="cyan" pos="18,1"/>
+        <enemy name="cyan" pos="1,13"/>
+        <enemy name="cyan" pos="18,13"/>
+    </enemies>
+    <blocks>
+        <block pos="3,3" type="softBlock"/>
+        <block pos="4,3" type="softBlock"/>
+        <block pos="5,3" type="softBlock"/>
+        <block pos="6,3" type="softBlock"/>
+        <block pos="7,3" type="softBlock"/>
+        <block pos="12,3" type="softBlock"/>
+        <block pos="13,3" type="softBlock"/>
+        <block pos="14,3" type="softBlock"/>
+        <block pos="15,3" type="softBlock"/>
+        <block pos="16,3" type="softBlock"/>
+        <block pos="3,4" type="softBlock"/>
+        <block pos="7,4" type="softBlock"/>
+        <block pos="12,4" type="softBlock"/>
+        <block pos="16,4" type="softBlock"/>
+        <block pos="3,5" type="softBlock"/>
+        <block pos="7,5" type="softBlock"/>
+        <block pos="12,5" type="softBlock"/>
+        <block pos="16,5" type="softBlock"/>
+        <block pos="3,6" type="softBlock"/>
+        <block pos="7,6" type="softBlock"/>
+        <block pos="12,6" type="softBlock"/>
+        <block pos="16,6" type="softBlock"/>
+	<block pos="3,7" type="softBlock"/>
+        <block pos="4,7" type="softBlock"/>
+        <block pos="5,7" type="softBlock"/>
+        <block pos="6,7" type="softBlock"/>
+        <block pos="7,7" type="softBlock"/>
+        <block pos="12,7" type="softBlock"/>
+        <block pos="13,7" type="softBlock"/>
+        <block pos="14,7" type="softBlock"/>
+        <block pos="15,7" type="softBlock"/>
+        <block pos="16,7" type="softBlock"/>
+        <block pos="3,9" type="softBlock"/>
+        <block pos="5,9" type="softBlock"/>
+	<block pos="7,9" type="softBlock"/>
+        <block pos="9,9" type="softBlock"/>
+        <block pos="10,9" type="softBlock"/>
+        <block pos="12,9" type="softBlock"/>
+        <block pos="14,9" type="softBlock"/>
+        <block pos="16,9" type="softBlock"/>
+        <block pos="3,10" type="softBlock"/>
+        <block pos="16,10" type="softBlock"/>
+        <block pos="3,12" type="softBlock"/>
+        <block pos="16,12" type="softBlock"/>
+        <block pos="5,5" type="invencible"/>
+        <block pos="14,5" type="invencible"/>
+    </blocks>
+</level>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<block name="invencible" >
+  <attributes
+    health = "0"
+    indestructible = "True"
+    give_experience = "0" >
+    <image src = "res/images/blocks/invencible.png"/>
+  </attributes>
+</block>
