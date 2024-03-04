@@ -1,6 +1,9 @@
 # 4.7 String formatting pag. 43
-sstring = "Mi nombre es {} y mi edad es {}"
+cadena = "Mi nombre es {1} {0} y mi edad es {2}"
 nombre ="Luis"
-edad = 20
-print(sstring.format(nombre, edad))
+apellidos = "Pérez"
+edad = 30
+print(cadena.format(apellidos, nombre,edad))
 
+cadena = "Mi nombre es {nombre} {apll1} y mi edad es {edad}"
+print(cadena.format(nombre="Luis",apll1="Pérez",edad=30))

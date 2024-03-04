@@ -1,4 +1,4 @@
-print('|{:25}|'.format('ancho de 25'), 'otra cosa')
+print('#{:25}#'.format('mi frase'))
 
 print('|{:<25}|'.format('izquierda')) # por defecto alineación izquierda
 print('|{:>25}|'.format('derecha')) #alineación derecha

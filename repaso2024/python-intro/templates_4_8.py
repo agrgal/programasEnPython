@@ -1,16 +1,16 @@
 import string
 
-plantilla = string.Template("$nombre es alumno del $ies")
-print(plantilla.substitute(nombre="Aurelio",ies="IES Seritium"))
-print(plantilla.substitute(nombre="Elena",ies="IES San telmo"))
+plantilla = string.Template("$nombre es alumn${genero} del $ies")
+print(plantilla.substitute(nombre="Alejandro",ies="IES Seritium",genero="o"))
+print(plantilla.substitute(nombre="Elena",ies="IES Almunia",genero="a"))
 
 #con diccionario
-d=dict(nombre="Aurelio",ies="Alto Guadiana")
+d=dict(nombre="María",ies="Alto Guadiana",genero="a")
 print(plantilla.substitute(d))
 
 # $$ escape para escribir el dolar
 plantilla = string.Template("$nombre ha ganado $sueldo$$")
-d =dict(nombre="Aurelio",sueldo=800)
+d =dict(nombre="Ana",sueldo=2800)
 print(plantilla.substitute(d))
 
 # prefijos con {}
