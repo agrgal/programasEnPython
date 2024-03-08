@@ -13,5 +13,5 @@ def esPrimo(num, b=2):
 
 
 for i in range(1,1001):
-    es = "es primo" if esPrimo(i) else "es divisible entre otro anterior"
+    es = "es primo" if esPrimo(i) else "es divisible entre uno anterior"
     print("El número {} {}".format(i,es))
