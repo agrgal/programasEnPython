@@ -7,9 +7,12 @@ def calcularcoeficiente(f,c):
 def calcularFila(fila):
     for j in range(0,fila+1):
         cadena=""
+        suma= 0
         for i in range(0,j+1):
+            suma = suma + calcularcoeficiente(j,i)
             cadena = cadena + str(calcularcoeficiente(j,i)) + " "
-        print("{:^80}".format(cadena))
+
+        print("{:^80}={:<10}".format(cadena,suma))
 
 
 calcularFila(15)
