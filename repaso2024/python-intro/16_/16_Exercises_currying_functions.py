@@ -7,13 +7,13 @@ def tasa_conversion(cantidad, moneda_dollar):
     return cantidad * moneda_dollar
 
 
-def mitasa(factor):
+def mi_tasa(factor):
     return lambda n: tasa_conversion(n, factor)
 
 
-euro = mitasa(1.2)
-libras = mitasa(2)
-yenes = mitasa(300)
+euro = mi_tasa(1.2)
+libras = mi_tasa(2)
+yenes = mi_tasa(300)
 
 cash = int(input("Introduce la cantidad a convertir: "))
 print("La cantidad de {} dólares en euros es {} €".format(cash, euro(cash)))
