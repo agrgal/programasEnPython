@@ -2,12 +2,28 @@
 
 class Cuenta:
     """ Esta clase representa la cuenta bancaria de una persona """
+    contador = 0  # creo la variable «contador» que lleva el registro de cuentas creadas
+    # es una variable de clase (class side data)
+
+    @classmethod
+    def cuentas_creadas(cls):
+        """ Este método de clase añade uno al contador y devuelve ese valor. Será modificado
+            cada vez que se instancia o crea un objeto"""
+        Cuenta.contador += 1
+        return Cuenta.contador
 
     def __init__(self, num, propietario, inicial, tipo):
         self.num = num
         self.propietario = propietario
         self.balance = inicial
         self.tipo = tipo
+        print("Cuenta nº {} creada".format(Cuenta.cuentas_creadas()))
+
+    def __del__(self):
+        """ Cuando se borra una cuenta hay que decrementar el contador"""
+        if Cuenta.contador > 1:
+            print("Se ha borrado una cuenta")
+            Cuenta.contador -= 1
 
     def ingresar(self, cantidad):
         self.balance += cantidad
@@ -40,5 +56,9 @@ print(acc1)
 cobro = 2501
 acc1.retirar(cobro)
 print(acc1)
-print("El balance para la cuenta {} de {} es de {}€".format(acc1.num,acc1.propietario,acc1.balance))
+print("El balance para la cuenta {} de {} es de {}€".format(acc1.num, acc1.propietario, acc1.balance))
 
+print("Actualmente en mis datos hay {} cuentas".format(Cuenta.contador))
+del acc3
+print("Actualmente en mis datos hay {} cuentas".format(Cuenta.contador))
+print(Cuenta.__module__)
