@@ -8,27 +8,34 @@ class Person:
         self._name = name
         self._age = age
 
-    def get_name(self):
+    @property
+    def name(self):
+        """ Propiedad de solo lectura que ofrece el nombre de una persona"""
         return self._name
 
-    def set_name(self, nombre):
-        self._name = nombre
+    # @name.setter --> introducir un setter para el nombre
+    # def set_name(self, nombre): --> no pongo setter
+    #    self._name = nombre
+
+    @name.deleter # le defino un deleter.
+    def name(self):
+        pass
 
     @property
-    def edad(self):
-        """" Este es el getter"""
+    def age(self):
+        """ Esta propiedad almacena la edad """  # actúa como doc de la propiedad
         return self._age
 
-    @edad.setter
-    def edad(self, valor):
+    @age.setter
+    def age(self, valor):
         """ Este es el setter. Se escribe IGUAL pero con la propiedad @edad.setter"""
         if isinstance(valor, int) and 0 < valor <= 120:
             self._age = valor
         else:
             print("Edad no válida. No se modifica")
 
-    @edad.deleter
-    def edad(self):
+    @age.deleter
+    def age(self):
         """ Este es el deleter. Se escribe IGUAL pero con la propiedad @edad.deleter"""
         pass
 
@@ -45,3 +52,6 @@ p2 = Person("Luis", 83)
 
 p1.age = -5
 print(p1)
+
+p2.age = 23
+print(p2)
