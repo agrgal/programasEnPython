@@ -16,14 +16,21 @@ class Person:
 
     @property
     def edad(self):
+        """" Este es el getter"""
         return self._age
 
     @edad.setter
     def edad(self, valor):
+        """ Este es el setter. Se escribe IGUAL pero con la propiedad @edad.setter"""
         if isinstance(valor, int) and 0 < valor <= 120:
             self._age = valor
         else:
             print("Edad no válida. No se modifica")
+
+    @edad.deleter
+    def edad(self):
+        """ Este es el deleter. Se escribe IGUAL pero con la propiedad @edad.deleter"""
+        pass
 
     def __str__(self):
         """ Método por defecto de imprimir el objeto """
