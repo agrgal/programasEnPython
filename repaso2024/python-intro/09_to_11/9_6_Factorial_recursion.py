@@ -17,5 +17,5 @@ def tail_factorial(n,accumulator=1):
         return tail_factorial(n-1,accumulator*n)
 
 num = int(input("Dime un número entero positivo: "))
-# print (factorial(num))
+print (factorial(num))
 print(tail_factorial(num))
