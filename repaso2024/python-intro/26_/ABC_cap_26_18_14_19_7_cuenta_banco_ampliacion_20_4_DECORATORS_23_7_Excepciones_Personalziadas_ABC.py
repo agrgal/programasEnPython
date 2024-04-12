@@ -133,3 +133,8 @@ try:
     print(cc1)
 except CantidadException as e:
     print(e)
+
+try:
+    print(cc1.balance())
+except CantidadException as e:
+    print(e)
