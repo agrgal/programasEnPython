@@ -1,6 +1,6 @@
 # programa que usa un generador para generar los números primos
 
-def primos(limite):
+def primos():
     j = 2
     milista = [] # No sé si esto es correcto, porque voy almacenando números... ¿¿??
                  # pero si no, ¿como lo hago?
