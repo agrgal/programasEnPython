@@ -87,8 +87,9 @@ class HumanPlayer(Player):
         row = self._get_user_input("Por favor, mete la fila: ")
         column = self._get_user_input("Por favor, mete la columna: ")
         while True:
-            if self.board.is_empty_cell():
-                Move(self.counter, row, column)
+            if self.board.is_empty_cell(row,column):
+                return Move(self.counter, row, column)
+                break
             else:
                 print('That position is not free')
                 print('Please try again')
@@ -221,6 +222,42 @@ class Game:
         else:
             self.next_player = self.computer
 
+    def play(self):
+        """ Main game playing loop """
+
+        print('Welcome to TicTacToe')
+        self.select_player_counter()
+        self.select_player_to_go_first()
+        print(self.next_player, 'will play first first')
+        while self.winner is None:
+            # Human players move
+            if self.next_player == self.human:
+                print(self.board)
+                print('Your move')
+                move = self.human.get_move()
+                self.board.add_move(move)
+                if self.board.check_for_winner(self.human):
+                    self.winner = self.human
+                else:
+                    self.next_player = self.computer
+            # Computers move
+            else:
+                print('Computers move')
+                move = self.computer.get_move()
+                print("aqui")
+                self.board.add_move(move)
+                if self.board.check_for_winner(self.computer):
+                    self.winner = self.computer
+                else:
+                    self.next_player = self.human
+            # Check for a winner or a draw
+            if self.winner is not None:
+                print('The Winner is the ' + str(self.winner))
+            elif self.board.is_full():
+                print('Game is a Tie')
+            break
+        print(self.board)
+
 
 # ==================
 # programa principal
@@ -228,3 +265,12 @@ class Game:
 
 X = Counter("X")  # Constante que representa la clase X
 O = Counter("O")  # Constante que representa la clase O
+
+
+def main():
+    game = Game()
+    game.play()
+
+
+if __name__ == '__main__':
+    main()
