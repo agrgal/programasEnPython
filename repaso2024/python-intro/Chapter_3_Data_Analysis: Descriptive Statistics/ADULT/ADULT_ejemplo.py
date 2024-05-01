@@ -69,7 +69,17 @@ print("Media de las edades de los hombres con altas ganancias: {}".format(mdf1['
 print("Media de las edades de las mujeres con altas ganancias: {}".format(wdf1['edad'].mean()))
 
 # Varianzas y desviaciones típicas.
+print("Media {}, Varianza {} y desviación típica {} de la edad en datos"
+      .format(df['edad'].mean(), df['edad'].var(),df['edad'].std()))
+print("Media {}, Varianza {} y desviación típica {} de la edad en hombres"
+      .format(mdf['edad'].mean(), mdf['edad'].var(),mdf['edad'].std()))
+print("Media {}, Varianza {} y desviación típica {} de la edad en mujeres"
+      .format(wdf['edad'].mean(), wdf['edad'].var(),wdf['edad'].std()))
+print("Media {}, Varianza {} y desviación típica {} de la edad en hombres con altas ganancias"
+      .format(mdf1['edad'].mean(), mdf1['edad'].var(),mdf1['edad'].std()))
+print("Media {}, Varianza {} y desviación típica {} de la edad en mujeres con altas ganancias"
+      .format(wdf1['edad'].mean(), wdf1['edad'].var(),wdf1['edad'].std()))
 
-
+# Medianas.
 
 
