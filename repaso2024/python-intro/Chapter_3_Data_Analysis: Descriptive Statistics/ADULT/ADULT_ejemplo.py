@@ -1,5 +1,5 @@
 import pandas as pd
-
+import matplotlib.pyplot as plt
 
 # Funciones
 def chr_int(a):
@@ -16,8 +16,8 @@ datos = []  # Base de datos
 n = 0  # recuento de datos
 for i in file:  # por cada fila del fichero de datos
     fila = i.split(",")  # divide en trozo las filas
-    for i in range(0,len(fila)):
-        fila[i]=fila[i].strip() # necesario limpiar caracteres espacios en blanco o saltos de línea.
+    for j in range(0, len(fila)):
+        fila[j] = fila[j].strip()  # necesario limpiar caracteres espacios en blanco o saltos de línea.
     try:
         datos.append([chr_int(fila[0]),
                       fila[1],
@@ -69,7 +69,36 @@ print("Media de las edades de los hombres con altas ganancias: {}".format(mdf1['
 print("Media de las edades de las mujeres con altas ganancias: {}".format(wdf1['edad'].mean()))
 
 # Varianzas y desviaciones típicas.
+print("Media {}, Varianza {} y desviación típica {} de la edad en datos"
+      .format(df['edad'].mean(), df['edad'].var(), df['edad'].std()))
+print("Media {}, Varianza {} y desviación típica {} de la edad en hombres"
+      .format(mdf['edad'].mean(), mdf['edad'].var(), mdf['edad'].std()))
+print("Media {}, Varianza {} y desviación típica {} de la edad en mujeres"
+      .format(wdf['edad'].mean(), wdf['edad'].var(), wdf['edad'].std()))
+print("Media {}, Varianza {} y desviación típica {} de la edad en hombres con altas ganancias"
+      .format(mdf1['edad'].mean(), mdf1['edad'].var(), mdf1['edad'].std()))
+print("Media {}, Varianza {} y desviación típica {} de la edad en mujeres con altas ganancias"
+      .format(wdf1['edad'].mean(), wdf1['edad'].var(), wdf1['edad'].std()))
 
+# Medianas de las edades de los dataframes considerados.
+print("Mediana de las edades en el dataframe datos: {}".format(df['edad'].median()))
+print("Mediana de las edades de los hombres: {}".format(mdf['edad'].median()))
+print("Mediana de las edades de las mujeres: {}".format(wdf['edad'].median()))
+print("Mediana de las edades de los hombres con altas ganancias: {}".format(mdf1['edad'].median()))
+print("Mediana de las edades de las mujeres con altas ganancias: {}".format(wdf1['edad'].median()))
 
+# Cuartiles de los datos.
+print("Resumen de datos estadísticos {}".format(df['edad'].describe()))
 
+# Histograma
+fig1, ax1 = plt.subplots()
+fig2, ax2 = plt.subplots()
 
+ax1.hist(mdf['edad'],density=False,histtype="stepfilled", bins=20,color="r")
+ax1.set_title("Hist 1")
+ax2.hist(wdf['edad'],density=False,histtype="stepfilled", bins=20)
+ax2.set_title("Hist 2")
+
+plt.show()
+
+# Vamos por página 37...
