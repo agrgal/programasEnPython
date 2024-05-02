@@ -101,4 +101,4 @@ ax2.set_title("Hist 2")
 
 plt.show()
 
-# Vamos por página 37...
+# Vamos por página 37..gfhgf fg.
