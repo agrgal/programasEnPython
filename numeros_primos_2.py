@@ -30,8 +30,8 @@ while len(numeros) > 1:
 # print numeros
 # primos.insert(0,1)
 
-print "\nTenemos %d números primos. Son: %s" % (len(primos), primos)
+print ("\nTenemos %d números primos. Son: %s" % (len(primos), primos))
 
 end = timeit.timeit()
 
-print end - start
+print (end - start)
